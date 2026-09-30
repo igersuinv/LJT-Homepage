@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -9,56 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Hong Kong University of Science and Technology (HKUST) — Hong Kong SAR, China
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Ph.D. in Computer Science** — 2024 – Present
+  - Supervisor: Professor Junxian He (HKUST NLP Group)
+  - Research: Natural language processing and machine learning, focusing on LLM reasoning, reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Shanghai Jiao Tong University (SJTU) — Shanghai, China
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **B.Eng.** — 2020 – 2024
+  - Major: Computer Science and Engineering
+  - Graduated June 2024
+  - Advisor: Professor Junxian He
+  - Honors: Zhiyuan Honor Scholarship
+
+# Research Experience
+
+- **Research Intern — MINIMAX** — February 2025 – Present
+- **Research Intern — Tencent WXG** — June 2024 – September 2024 (advised by Zifei Shan)
+- **Research Intern — Shanghai AI Lab** — June 2023 – December 2023 (advised by Professor Yu Cheng)
+
+# Publications
+
+Full publication list and records are available on the [Publications page](/publications/).
+
+# Skills
+
+- Research: natural language processing; machine learning; LLM reasoning and reinforcement learning; hallucination in vision-language models; LLM truthfulness and interpretability.
+- Software development: public code repositories on GitHub.
+
+# Contact
+
+- Email: jliugi@connect.ust.hk
+- GitHub: github.com/Vicent0205
+- Google Scholar: scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+- X: @junteng88716710
